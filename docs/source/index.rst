@@ -13,7 +13,7 @@ Codigo
 codigo!!.::
 
     print 'hola!!!'
-    >> hola
+    >> hola!!!
 
 
 .. toctree::
